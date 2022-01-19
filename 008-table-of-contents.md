@@ -6,31 +6,60 @@
   * Resources
 * [Chapter 2 - National Basketball League](030-chapter-02.md)
   * Video
-  * Photos
+  * Photography
   * Sound
   * Distribution
+  * Big Data
   * Statistics
   * Resources
 * [Chapter 3 - National Football League](040-chapter-03.md)
   * Video
-  * Photos
+  * Photography
   * Sound
   * Distribution
   * Statistics
   * Player-Coach Comms
+  * Big Data
+  * Uniforms
   * Resources
 * [Chapter 4 - Major League Baseball](050-chapter-04.md)
   * Video
-  * Photos
+  * Photography
   * Sound
   * Distribution
+  * Big Data
   * Statistics
   * Resources
 * [Chapter 5 - Major League Soccer](060-chapter-05.md)
   * Video
-  * Photos
+  * Photography
   * Sound
   * Distribution
+  * Big Data
+  * Statistics
+  * Resources
+* [Chapter 6 - WWE](070-chapter-06.md)
+  * Video
+  * Photography
+  * Sound
+  * Distribution
+  * Big Data
+  * Statistics
+  * Resources
+* [Chapter 7 - NASCAR](080-chapter-07.md)
+  * Video
+  * Photography
+  * Sound
+  * Distribution
+  * Big Data
+  * Statistics
+  * Resources
+* [Chapter 8 - National Hockey League](090-chapter-08.md)
+  * Video
+  * Photography
+  * Sound
+  * Distribution
+  * Big Data
   * Statistics
   * Resources
 * [Chapter 6 - Summary](070-chapter-06.md)
