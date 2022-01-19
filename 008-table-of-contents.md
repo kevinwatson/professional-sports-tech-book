@@ -12,7 +12,7 @@
   * Big Data
   * Statistics
   * Resources
-* [Chapter 3 - National Football League](040-chapter-03.md)
+* [Chapter 3 - National Football League (NFL)](040-chapter-03.md)
   * Video
   * Photography
   * Sound
