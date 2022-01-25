@@ -62,6 +62,22 @@
   * Big Data
   * Statistics
   * Resources
+* [Chapter 9 - Golf](090-chapter-08.md)
+  * Video
+  * Photography
+  * Sound
+  * Distribution
+  * Big Data
+  * Statistics
+  * Resources
+* [Chapter 10 - ESports](090-chapter-08.md)
+  * Video
+  * Photography
+  * Sound
+  * Distribution
+  * Big Data
+  * Statistics
+  * Resources
 * [Chapter 6 - Summary](070-chapter-06.md)
   * Resources
 
