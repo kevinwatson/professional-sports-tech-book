@@ -18,6 +18,21 @@ Some may ask, why not use a drone for the aeral shots? There are a few reasons: 
 
 ### Control Room
 
+I takes between 150 and 200 team neutral people to broadcast an NFL game. From cameramen, statiticians, stage managers, runners, technical directors, audio mixers, audio and video technicians all work together to provide the tools that producers and directors need to tell the story to the fans in the stadium and at home.
+
+Many of the people running the broadcast are employed by the TV network (Fox Sports is one example).
+
+Not everything related to the broadcast happens in the stadium's control room. Mobile control rooms for sound and video in a tractor-trailer are delivered and set up days before the big game. Many of these mobile stations are also used for other sports during the NFL offseason.
+
+There are at a minimum of 15 cameras on the ground
+
+Fiber optics are used to reduce the number of copper wires
+
+
+### On Field Camera
+
+The NFL allows the broadcaster to have one camera on the field between plays. This portable camera is wirelessly connected to a receiver and mounted on a gimbal. This rig is commonly used after a big play like a touchdown to get a close up of the players and their celebration in the end zone.
+
 ### On Field Graphics
 
 ### Announcers
@@ -38,3 +53,5 @@ Some may ask, why not use a drone for the aeral shots? There are a few reasons: 
 * https://en.wikipedia.org/wiki/1st_%26_Ten_(graphics_system)
 * https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/engineering-technology/built-by-data-nfl-helmet-innovation
 * https://en.wikipedia.org/wiki/AFL–NFL_merger
+* https://youtu.be/u_V8IlitveE The Verge: Inside the control room
+* https://www.sportsvideo.org/2020/12/22/fox-sports-worked-a-live-mirrorless-camera-into-an-nfl-broadcast-and-it-caught-viewers-attention/
