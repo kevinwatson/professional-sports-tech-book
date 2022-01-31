@@ -29,11 +29,15 @@ There are at a minimum of 15 cameras on the ground
 Fiber optics are used to reduce the number of copper wires
 
 
-### On Field Camera
+### On Field Cameras
 
 The NFL allows the broadcaster to have one camera on the field between plays. This portable camera is wirelessly connected to a receiver and mounted on a gimbal. This rig is commonly used after a big play like a touchdown to get a close up of the players and their celebration in the end zone.
 
+The orange pylons on the first down markers and also mark the end zone have cameras that are used for capturing video near ground level. The pylon cameras are frequently used in replay scenarios.
+
 ### On Field Graphics
+
+For TV viewers, additional on-field graphics enhance the real time play experience. It's so common to see the line of scrimmage and first down line that TV viewers would be lost without them. The field grass outside of the line of scrimmage and the first down line is also occasionally  greyed out to highlight the remaining yardage for a first down.
 
 ### Announcers
 
@@ -42,6 +46,13 @@ The NFL allows the broadcaster to have one camera on the field between plays. Th
 ### On Screen Drawing
 
 ## Sound
+
+Sound is often an overlooked part of the consumer's experience because of all of the visual stimuli during an NFL game. Also, 100,000 cheering fans in the stadium can make it hard even for the players on the field to hear everything that's going on.
+
+Sometimes during a replay you will catch a glimpse of a microphone operator standing near the line of scrimmage. Some of these operators are holding a parabolic microphone dish. These dishes are designed to concentrate the sounds during a play, including the quarterback's cadence, the grunts and collisions of helmets and shoulder pads after the ball is snapped.
+
+NFL rules allow a single player on each team to wear a helmet that has a built-in radio that allows the player to hear plays called from the sidelines. The radios are one way - the player can only hear, and it's common for them to use hand gestures to communicate back to the sideline. Each radio helmet has a green dot on the back so that the referees are aware of which player is in communication with the sideline.
+
 ## Distribution
 ## Statistics
 ## Player-Coach Comms
@@ -53,5 +64,7 @@ The NFL allows the broadcaster to have one camera on the field between plays. Th
 * https://en.wikipedia.org/wiki/1st_%26_Ten_(graphics_system)
 * https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/engineering-technology/built-by-data-nfl-helmet-innovation
 * https://en.wikipedia.org/wiki/AFL–NFL_merger
+* https://operations.nfl.com/officiating/instant-replay/history-of-instant-replay/
 * https://youtu.be/u_V8IlitveE The Verge: Inside the control room
 * https://www.sportsvideo.org/2020/12/22/fox-sports-worked-a-live-mirrorless-camera-into-an-nfl-broadcast-and-it-caught-viewers-attention/
+* https://en.wikipedia.org/wiki/1st_%26_Ten_(graphics_system)
