@@ -68,6 +68,12 @@ This data can be synced with other sources, such as video and audio to put them 
 
 NFL uniforms undergo regular revisions to make the sport safer.
 
+### Helmets
+
+Each year, the NFL and the National Football League Players Association (NFLPA) work with experts and testing laboratories to test the wide variety of helmets and rank each model according to its ability to reduce concussions. Each year a particular helmet brand's model can be moved up or down the scale of better performance down to not recommended to prohibited.
+
+NFL rule changes have also reduced the number of concussions on the field. Targeting is a rule that was introduced just a few years ago which prohibits a player from lowering their head to use their helmet to make contact with their opponent, and usually involves helmet to helmet conctact. Helmet contact can cause neck, head and spinal injuries. Better helmet technology can help, but rules and penalties can also help reduce player injuries.
+
 ### On Field Tracking
 
 Each shoulder pad now has an embedded RFID tag that transmits its location and sensors placed strategically in various locations throught the stadium. The data is collected and triangulation is used to track not only the location and speed of each player, but because each has a left and right RFID tag, the direction of each player.
@@ -80,6 +86,7 @@ Each football in use in a game now has a 4 gram RFID tag that is used to track i
 * https://en.wikipedia.org/wiki/Skycam
 * https://en.wikipedia.org/wiki/1st_%26_Ten_(graphics_system)
 * https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/engineering-technology/built-by-data-nfl-helmet-innovation
+* https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/equipment-testing/helmet-laboratory-testing-performance-results
 * https://en.wikipedia.org/wiki/AFL–NFL_merger
 * https://operations.nfl.com/officiating/instant-replay/history-of-instant-replay/
 * https://youtu.be/u_V8IlitveE The Verge: Inside the control room
