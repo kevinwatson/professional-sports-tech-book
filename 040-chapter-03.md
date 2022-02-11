@@ -31,9 +31,11 @@ Fiber optics are used to reduce the number of copper wires
 
 ### On Field Cameras
 
-The NFL allows the broadcaster to have one camera on the field between plays. This portable camera is wirelessly connected to a receiver and mounted on a gimbal. This rig is commonly used after a big play like a touchdown to get a close up of the players and their celebration in the end zone.
+The NFL allows the broadcaster to have one mobile camera on the field between plays. This portable camera is wirelessly connected to a receiver and mounted on a gimbal. This rig is commonly used after a big play like a touchdown to get a close up of the players and their celebration in the end zone.
 
 The orange pylons on the first down markers and also mark the end zone have cameras that are used for capturing video near ground level. The pylon cameras are frequently used in replay scenarios.
+
+Fixed high-definition cameras are normally placed on the 50 and 22 yard lines. Additional cameras are placed on the field and in numerous other places in the stadium, depending on the network and expected number of at home viewers. Monday night football games have fewer viewers and may only have 20 or so cameras, while playoff games and the Super Bowl may have 2 or 3 times that number.
 
 ### On Field Graphics
 
@@ -57,9 +59,24 @@ NFL rules allow a single player on each team to wear a helmet that has a built-i
 ## Statistics
 ## Player-Coach Comms
 ## Big Data
+
+The day after a game, each team gets a data dump of all of the data collected from the previous day's games. Each team employs one or more analysts whose job it is to mine and process that data for their club's benefit.
+
+This data can be synced with other sources, such as video and audio to put them back inside every movement of the ball for a thorough analysis of every play.
+
 ## Uniforms
+
+NFL uniforms undergo regular revisions to make the sport safer.
+
+### On Field Tracking
+
+Each shoulder pad now has an embedded RFID tag that transmits its location and sensors placed strategically in various locations throught the stadium. The data is collected and triangulation is used to track not only the location and speed of each player, but because each has a left and right RFID tag, the direction of each player.
+
+Each football in use in a game now has a 4 gram RFID tag that is used to track it's location, revolutions per minute (RPM), height and velocity during every play. Now that the football is tracked, miles per hour (MPH) is a stat that is tracked for every game.
+
 ## Resources
 
+* https://www.cbssports.com/nfl/news/the-future-of-nfl-computerized-player-tracking-and-data-collection-its-rapid-evolution-and-what-comes-next/
 * https://en.wikipedia.org/wiki/Skycam
 * https://en.wikipedia.org/wiki/1st_%26_Ten_(graphics_system)
 * https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/engineering-technology/built-by-data-nfl-helmet-innovation
@@ -68,3 +85,5 @@ NFL rules allow a single player on each team to wear a helmet that has a built-i
 * https://youtu.be/u_V8IlitveE The Verge: Inside the control room
 * https://www.sportsvideo.org/2020/12/22/fox-sports-worked-a-live-mirrorless-camera-into-an-nfl-broadcast-and-it-caught-viewers-attention/
 * https://en.wikipedia.org/wiki/1st_%26_Ten_(graphics_system)
+* https://www.quora.com/How-many-cameras-are-used-when-broadcasting-an-NFL-game
+* https://www.si.com/edge/2015/03/05/nfl-player-tracking-technology-new-orleans-saints
