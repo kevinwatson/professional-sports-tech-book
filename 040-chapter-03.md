@@ -41,11 +41,15 @@ Fixed high-definition cameras are normally placed on the 50 and 22 yard lines. A
 
 For TV viewers, additional on-field graphics enhance the real time play experience. It's so common to see the line of scrimmage and first down line that TV viewers would be lost without them. The field grass outside of the line of scrimmage and the first down line is also occasionally  greyed out to highlight the remaining yardage for a first down.
 
+### Sidelines
+
+On the sideline, coaches want to see a bird's eye view of the last play. In the early days, polaroid photos were taken from up above and dropped to the sidelines via a pulley system. Later, images were taken from the same strategic positions in the stands then printed on the sidelines using thermal paper. This paper is subject to hot and cold temperatures and wouldn't work so well during a game played on a hot August day or a cold December night. The next advancement came with a Microsoft contract. Named the 'Microsoft Surface Sideline Viewing System', a platform was developed to take high definition photos, store those photos on servers located at the stadium, categorize them and make them instantly available to coaches and players on the sidelines. Coaches in the coache's booth can annotate photos which are simultaneously updated on the Microsoft Surface tablets on the sidelines.
+
 ### Announcers
 
 ### Instant Replay
 
-### On Screen Drawing
+### On Screen Annotations
 
 ## Sound
 
@@ -88,6 +92,8 @@ Each football in use in a game now has a 4 gram RFID tag that is used to track i
 * https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/engineering-technology/built-by-data-nfl-helmet-innovation
 * https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/equipment-testing/helmet-laboratory-testing-performance-results
 * https://en.wikipedia.org/wiki/AFL–NFL_merger
+
+* https://operations.nfl.com/gameday/technology/sideline-of-the-future/
 * https://operations.nfl.com/officiating/instant-replay/history-of-instant-replay/
 * https://youtu.be/u_V8IlitveE The Verge: Inside the control room
 * https://www.sportsvideo.org/2020/12/22/fox-sports-worked-a-live-mirrorless-camera-into-an-nfl-broadcast-and-it-caught-viewers-attention/
