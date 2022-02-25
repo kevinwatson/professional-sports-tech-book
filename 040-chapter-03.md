@@ -61,7 +61,6 @@ NFL rules allow a single player on each team to wear a helmet that has a built-i
 
 ## Distribution
 ## Statistics
-## Player-Coach Comms
 ## Big Data
 
 The day after a game, each team gets a data dump of all of the data collected from the previous day's games. Each team employs one or more analysts whose job it is to mine and process that data for their club's benefit.

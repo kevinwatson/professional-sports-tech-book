@@ -18,7 +18,6 @@
   * Sound
   * Distribution
   * Statistics
-  * Player-Coach Comms
   * Big Data
   * Uniforms
   * Resources
