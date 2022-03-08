@@ -16,7 +16,6 @@
   * Video
   * Photography
   * Sound
-  * Distribution
   * Statistics
   * Big Data
   * Uniforms

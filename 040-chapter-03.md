@@ -24,11 +24,6 @@ Many of the people running the broadcast are employed by the TV network (Fox Spo
 
 Not everything related to the broadcast happens in the stadium's control room. Mobile control rooms for sound and video in a tractor-trailer are delivered and set up days before the big game. Many of these mobile stations are also used for other sports during the NFL offseason.
 
-There are at a minimum of 15 cameras on the ground
-
-Fiber optics are used to reduce the number of copper wires
-
-
 ### On Field Cameras
 
 The NFL allows the broadcaster to have one mobile camera on the field between plays. This portable camera is wirelessly connected to a receiver and mounted on a gimbal. This rig is commonly used after a big play like a touchdown to get a close up of the players and their celebration in the end zone.
@@ -45,11 +40,15 @@ For TV viewers, additional on-field graphics enhance the real time play experien
 
 On the sideline, coaches want to see a bird's eye view of the last play. In the early days, polaroid photos were taken from up above and dropped to the sidelines via a pulley system. Later, images were taken from the same strategic positions in the stands then printed on the sidelines using thermal paper. This paper is subject to hot and cold temperatures and wouldn't work so well during a game played on a hot August day or a cold December night. The next advancement came with a Microsoft contract. Named the 'Microsoft Surface Sideline Viewing System', a platform was developed to take high definition photos, store those photos on servers located at the stadium, categorize them and make them instantly available to coaches and players on the sidelines. Coaches in the coache's booth can annotate photos which are simultaneously updated on the Microsoft Surface tablets on the sidelines.
 
-### Announcers
-
 ### Instant Replay
 
-### On Screen Annotations
+Back in 1976 officials started to look at reviewing questionalble plays. At the time, they determined that there weren't enough cameras to get enough angles (12 cameras was determined to be the minimum amount). The cost to upgrade camera and network equipment in each stadium at the time was considered to be too expensive.
+
+In 1985 the league started testing a new system during the preseason - one that was mostly run from a booth with access to all of the camera feeds and VCRs. After reviewing the plays, the replay official in the booth relayed the info to the officials on the field via walkie talkies.
+
+Walkie-talkies were soon replaced with pagers and radio headsets and changed terminology used on the field after a Kansas City Chiefs vs Oakland Raiders game in October 1986 where the replay official reviewed a touchdown pass and stated "Pass incomplete". The official on the field heard "Pass is complete" and the Raiders won the game because of that call. The terminology was also changed - "confirmed" and "reversed" would be used to remove the ambiguity.
+
+After six seasons in 1991 a majority of team owners voted against keeping the replay system stating concerns such as replays were causing too much delay and the resulting calls were overturned incorrectly.
 
 ## Sound
 
@@ -59,8 +58,12 @@ Sometimes during a replay you will catch a glimpse of a microphone operator stan
 
 NFL rules allow a single player on each team to wear a helmet that has a built-in radio that allows the player to hear plays called from the sidelines. The radios are one way - the player can only hear, and it's common for them to use hand gestures to communicate back to the sideline. Each radio helmet has a green dot on the back so that the referees are aware of which player is in communication with the sideline.
 
-## Distribution
 ## Statistics
+
+Like other sports, each NFL game is a treasure trove of statistical data. With 22 players on the field and each game averaging over 150 plays, from the movement of the ball to the field goal distance, to the number of rushing yards per play and per player.
+
+Statistical data drives nearly all of the decisions made by coaches and managers. This data is also available in real-time to the announcers, as you will sometimes hear them talk about a player's seasonal rushing yards or sacks as the game progresses.
+
 ## Big Data
 
 The day after a game, each team gets a data dump of all of the data collected from the previous day's games. Each team employs one or more analysts whose job it is to mine and process that data for their club's benefit.
@@ -69,7 +72,7 @@ This data can be synced with other sources, such as video and audio to put them 
 
 ## Uniforms
 
-NFL uniforms undergo regular revisions to make the sport safer.
+NFL uniforms undergo regular revisions to make the sport safer. Regular testing of existing and new helmet data combined with health and concussion data is used to adjust the approved equipment list on a yearly schedule. Shoulder, thigh and knee pads are required during every play to protect players.
 
 ### Helmets
 
@@ -93,6 +96,7 @@ Each football in use in a game now has a 4 gram RFID tag that is used to track i
 * https://en.wikipedia.org/wiki/AFL–NFL_merger
 
 * https://operations.nfl.com/gameday/technology/sideline-of-the-future/
+* https://operations.nfl.com/inside-football-ops/players-legends/player-health-safety/
 * https://operations.nfl.com/officiating/instant-replay/history-of-instant-replay/
 * https://youtu.be/u_V8IlitveE The Verge: Inside the control room
 * https://www.sportsvideo.org/2020/12/22/fox-sports-worked-a-live-mirrorless-camera-into-an-nfl-broadcast-and-it-caught-viewers-attention/
