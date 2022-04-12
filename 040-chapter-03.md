@@ -4,7 +4,7 @@ The NFL has long used technology to improve the game and safety of its players. 
 
 Some NFL stadiums have roofs and provide an indoor experience that is predictable and climate controlled, similar to other sports like the NBA. Many NFL stadiums are not covered and are subject to current weather conditions such as rain, snow and low temperatures, as the NFL season starts in the fall and runs through the winter. This winter weather can severely affect the game and determine the technology used during a game.
 
-## Video, Audio & Photography
+## Video & Photography
 
 In 1920 the NFL was founded and later in 1960 the American Football Leage was founded. They merged in 1966 and became the most popular sports leagues in the United States. Soon after the merger, the 'AFL-NFL World Championship Game' (later renamed Super Bowl) has been broadcast on TV every year since then, leading to numerous video, audio and photograpy advancements.
 

@@ -13,9 +13,7 @@
   * Statistics
   * Resources
 * [Chapter 3 - National Football League (NFL)](040-chapter-03.md)
-  * Video
-  * Photography
-  * Sound
+  * Video & Photography
   * Statistics
   * Big Data
   * Uniforms
