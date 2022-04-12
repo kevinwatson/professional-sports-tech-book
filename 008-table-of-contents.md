@@ -43,12 +43,11 @@
   * Statistics
   * Resources
 * [Chapter 7 - NASCAR](080-chapter-07.md)
-  * Video
-  * Photography
-  * Sound
+  * Video & Photography
   * Distribution
   * Big Data
   * Statistics
+  * Safety
   * Resources
 * [Chapter 8 - National Hockey League](090-chapter-08.md)
   * Video
